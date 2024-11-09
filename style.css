@@ -1,0 +1,87 @@
+content
+{
+    display:flex;
+    margin:0px;
+    justify-content: center;
+    align-content: center;
+}
+
+.container{
+    margin-top: 3vh;
+    height:80vh;
+    width:100vh;
+    background-color: aqua;
+}
+.img{
+    height:10vh;
+    width: 10vh;
+    margin-top: 35vh;
+    margin-left: 45vh;
+}
+
+
+#heading
+{
+    font-size:40px;
+    color: rgb(207, 237, 38);
+    padding: 0px;
+    max-height: 5vmin;
+}
+#header
+{
+    padding:0px;
+    background-color: rgb(165, 186, 186);
+}
+
+#star{
+    height:10vmin
+}
+button{
+    padding:1vh;
+    margin:1vh;
+ 
+    margin-left:65vw;
+
+    background-color: red;
+
+}
+button:hover{
+    background-color: yellow;
+}
+#button{
+    font-size: 3vh;
+    border-radius: 1vh;
+}
+#Nclick{
+    margin-right:5vh;
+    display: inline-block;
+    width: 5vh;
+
+}
+
+.top{
+    font-size: 3vh;
+    display: inline-block ;
+    width: 50vh;
+    height: 5vh;
+}
+#head
+{
+    font-size: 3vh;
+    background-color: skyblue;
+    color: GOLD;
+    font-weight: bold;
+}
+body{
+    margin:0px;
+    background-color: Green;
+}
+#head
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue ;
+    padding: 1vh;
+    
+ }
