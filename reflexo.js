@@ -48,7 +48,7 @@ img.addEventListener("click", function(){
     }
     if(game==10)
     {
-        time.innerText= finalTime/10+" ms";
+        time.innerText= Math.round(finalTime/10)+" ms";
         head.innerText=  "Please click reset to play once more or it will reset itself after you click the star."
     }
     else if(game>10)
